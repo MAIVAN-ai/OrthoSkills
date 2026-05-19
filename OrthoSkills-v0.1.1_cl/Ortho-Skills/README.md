@@ -1,8 +1,8 @@
-# Ortho-Skills
+# OrthoSkills
 
 **Open-source orthopaedic clinical reasoning skills for AI agents.**
 
-Ortho-Skills is a public, community-driven library of [Anthropic-style "skills"](https://www.anthropic.com/news/skills) covering the orthopaedic surgical workflow — from diagnosis and fracture classification (AO/OTA 2018) through treatment mapping, implant selection, outcome measurement, and aftercare.
+OrthoSkills is a public, community-driven library of [Anthropic-style "skills"](https://www.anthropic.com/news/skills) covering the orthopaedic surgical workflow — from diagnosis and fracture classification (AO/OTA 2018) through treatment mapping, implant selection, outcome measurement, and aftercare.
 
 Each skill is a self-contained Markdown file with YAML frontmatter that tells an AI assistant (Claude, ChatGPT, Gemini, or any MCP-compatible agent) *when* to use the skill and *how* to reason through that step of the orthopaedic workflow.
 
@@ -14,11 +14,11 @@ Each skill is a self-contained Markdown file with YAML frontmatter that tells an
 
 Eric Topol has rightly pointed out that medical AI lives or dies by the quality of its **ground truth, prospective validation, and outcome linkage**. Most orthopaedic AI today is trained on retrospective datasets with no surgeon confirmation and no outcome follow-up.
 
-Ortho-Skills is the **public reasoning layer** of a larger ecosystem being built by [MAIVAN.ai](https://maivan.ai) / ORTHO-X:
+OrthoSkills is the **public reasoning layer** of a larger ecosystem being built by [MAIVAN.ai](https://maivan.ai) / ORTHO-X:
 
 ```
 ┌────────────────────────────────────────────────────────┐
-│  Ortho-Skills  (this repo, public, open-source)        │
+│  OrthoSkills  (this repo, public, open-source)        │
 │  → How an AI should reason about orthopaedic cases     │
 └────────────────────────────────────────────────────────┘
                           │
@@ -81,7 +81,7 @@ The skills are designed to call the (forthcoming) **OrthoClass MCP server** for 
 ## Repo layout
 
 ```
-Ortho-Skills/
+OrthoSkills/
 ├── README.md                              ← you are here
 ├── LICENSE                                ← Apache-2.0
 ├── CONTRIBUTING.md                        ← how to add/improve skills
@@ -137,7 +137,7 @@ The AO/OTA Fracture & Dislocation Classification Compendium 2018 is © AO Founda
 
 ## Maintainers
 
-- [MAIVAN.ai](https://maivan.ai) / ORTHO-X — Thomas, Kilchberg, Zurich
+- [MAIVAN.ai](https://maivan.ai) / ORTHO-X — by Bluenaut Matching Services AG, CH - Kilchberg, Zurich, Switzerland
 - Contact: via GitHub issues on this repo
 
 ---
@@ -145,4 +145,4 @@ The AO/OTA Fracture & Dislocation Classification Compendium 2018 is © AO Founda
 > *"As opposed to many randomized trials and prospective studies, most medical AI has no ground truth."*
 > — Eric Topol
 >
-> Ortho-Skills + OrthoClass exists to fix that, one fracture at a time.
+> OrthoSkills + OrthoClass exists to fix that, one fracture at a time.
