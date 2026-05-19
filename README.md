@@ -138,7 +138,7 @@ The AO/OTA Fracture & Dislocation Classification Compendium 2018 is © AO Founda
 ## Maintainers
 
 - [MAIVAN.ai](https://maivan.ai) / ORTHO-X — by Bluenaut Matching Services AG, CH - Kilchberg, Zurich, Switzerland
-- Contact: mailto:coordinator@maivan.ai
+- Contact: coordinator@maivan.ai
 
 ---
 
