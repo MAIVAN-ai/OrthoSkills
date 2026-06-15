@@ -7,6 +7,18 @@ OrthoSkills is a public, community-driven library of [Anthropic-style "skills"](
 Each skill is a self-contained Markdown file with YAML frontmatter that tells an AI assistant (Claude, ChatGPT, Gemini, or any MCP-compatible agent) *when* to use the skill and *how* to reason through that step of the orthopaedic workflow.
 
 > 🩺 **Educational reference only.** These skills do not provide medical advice. Every clinical decision must be made by a qualified surgeon with the patient in front of them. Skills emphasise human-in-the-loop confirmation at every step.
+>
+> **No Data Rights Granted**
+
+This repository license grants rights only to software, documentation,
+schemas, and skill definitions. It grants no rights to collect, export,
+sell, transfer, train on, or otherwise monetize patient case data,
+clinical images, surgical videos, hospital records, registry data,
+or derived clinical evidence.
+
+Any use of case data requires a separate data-processing agreement,
+patient consent basis where applicable, hospital authorization,
+and, for ORTHO-X Data Commons participation, an ODCC data contribution agreement.
 
 ---
 
