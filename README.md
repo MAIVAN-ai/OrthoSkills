@@ -95,7 +95,7 @@ The skills are designed to call the (forthcoming) **OrthoClass MCP server** for 
 ```
 OrthoSkills/
 ├── README.md                              ← you are here
-├── LICENSE                                ← Apache-2.0
+├── LICENSE                                ← AGPL-3.0
 ├── CONTRIBUTING.md                        ← how to add/improve skills
 ├── CODE_OF_CONDUCT.md
 ├── .github/workflows/validate-skills.yml  ← CI to lint SKILL.md frontmatter
@@ -171,4 +171,7 @@ and, for ORTHO-X Data Commons participation, an ODCC data contribution agreement
 > *"As opposed to many randomized trials and prospective studies, most medical AI has no ground truth."*
 > — Eric Topol
 >
-> OrthoSkills + OrthoClass exists to fix that, one fracture at a time.
+> OrthoSkills + OrthoFlow exists to fix that, one fracture at a time:
+> 
+> ORTHO-X OrthoFlow™ — Guiding the Agentic Orthopaedic Patient Journey
+> https://maivan.ai/ortho-x-orthoflow-guiding-the-agentic-orthopaedic-patient-journey/
