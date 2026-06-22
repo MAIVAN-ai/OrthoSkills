@@ -1,7 +1,7 @@
-# Before you type a real patient in: a 2-minute read for clinicians
+# Before you start with a real patient case: a 2-minute read for clinicians
 
-You don't need to understand the technology. You need to understand **where your words go**
-when you type them into one of these AI assistants. This page explains that in plain language.
+You don't need to understand the technology. You need to understand **where your images and words go**
+when you insert or type them into one of these AI assistants. This page explains that in plain language.
 
 ---
 
@@ -39,16 +39,16 @@ nobody in between. It's the difference between a **sealed letter** and a **postc
 
 Think of it as a postcard relay:
 
-1. You type a case into **WhatsApp** or **Telegram**, or the desktop app.
+1. You type a case and paste an image into **WhatsApp** or **Telegram**, or the desktop app.
 2. It arrives at the **assistant running on the operator's computer**.
-3. That computer then **forwards your words to an AI model run by a company abroad**
+3. That computer then **forwards your words or image to an AI model run by a company abroad**
    (on the quick setup, a US-hosted service) to get the answer.
 4. The answer comes back to you the same way.
 
 Two leaks matter here:
 
 - **Telegram** ordinary chats are like **postcards** — not sealed end-to-end. ⛔
-- **WhatsApp** is sealed only as far as step 2. After that, at step 3, your words are
+- **WhatsApp** is sealed only as far as step 2. After that, at step 3, your words and images are
   **handed on to the AI company** — sealed letter to the door, postcard the rest of the way. ⛔
 
 Either way, on the quick setup, **a real patient's details would end up on someone else's
