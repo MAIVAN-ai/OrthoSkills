@@ -152,11 +152,14 @@ and, for ORTHO-X Data Commons participation, an ODCC data contribution agreement
 ## Maintainers
 
 - [MAIVAN.ai](https://maivan.ai) / ORTHO-X — by Bluenaut Matching Services AG, CH - Kilchberg, Zurich, Switzerland
-- Contact: via GitHub issues on this repo
+- Contact: coordinator@maivan.ai
 
 ---
 
 > *"As opposed to many randomized trials and prospective studies, most medical AI has no ground truth."*
 > — Eric Topol
 >
-> OrthoSkills + OrthoClass exists to fix that, one fracture at a time.
+> OrthoSkills + OrthoFlow exists to fix that, one fracture at a time:
+> 
+> ORTHO-X OrthoFlow™ — Guiding the Agentic Orthopaedic Patient Journey
+> https://maivan.ai/ortho-x-orthoflow-guiding-the-agentic-orthopaedic-patient-journey/
