@@ -7,7 +7,18 @@ OrthoSkills is a public, community-driven library of [Anthropic-style "skills"](
 Each skill is a self-contained Markdown file with YAML frontmatter that tells an AI assistant (Claude, ChatGPT, Gemini, or any MCP-compatible agent) *when* to use the skill and *how* to reason through that step of the orthopaedic workflow.
 
 > 🩺 **Educational reference only.** These skills do not provide medical advice. Every clinical decision must be made by a qualified surgeon with the patient in front of them. Skills emphasise human-in-the-loop confirmation at every step.
+
+> ⚡ **Two easy ways to try OrthoSkills:**
 >
+> - 🧩 **Using Claude Cowork?** Install the [OrthoSkills Cowork plugin](https://github.com/MAIVAN-ai/OrthoSkills-plugin)
+>   — the fastest path, no setup, the skills load straight into Claude.
+> - 💬 **Want it on Desktop, WhatsApp, or Telegram?** Follow [TRY-IT-FAST.md](./TRY-IT-FAST.md)
+>   to run OrthoSkills via Hermes Agent in ~15 minutes.
+>
+> 🔒 **Clinicians, read this first:** [DATA-SAFETY-FOR-CLINICIANS.md](./DATA-SAFETY-FOR-CLINICIANS.md)
+> — where your words and images go, and why the quick setups are for teaching cases only, not real patients.
+
+
 > **No Data Rights Granted**
 
 This repository license grants rights only to software, documentation,
@@ -25,6 +36,15 @@ and, for ORTHO-X Data Commons participation, an ODCC data contribution agreement
 ## Why this exists
 
 Eric Topol has rightly pointed out that medical AI lives or dies by the quality of its **ground truth, prospective validation, and outcome linkage**. Most orthopaedic AI today is trained on retrospective datasets with no surgeon confirmation and no outcome follow-up.
+
+> *"As opposed to many randomized trials and prospective studies, most medical AI has no ground truth."*
+> — Eric Topol
+>
+> OrthoSkills + OrthoFlow exists to fix that, one fracture at a time:
+> 
+> ORTHO-X OrthoFlow™ — Guiding the Agentic Orthopaedic Patient Journey
+> https://maivan.ai/ortho-x-orthoflow-guiding-the-agentic-orthopaedic-patient-journey/
+
 
 OrthoSkills is the **public reasoning layer** of a larger ecosystem being built by [MAIVAN.ai](https://maivan.ai) / ORTHO-X:
 
