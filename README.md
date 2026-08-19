@@ -77,7 +77,7 @@ The skills follow the orthopaedic surgical workflow:
 
 | # | Skill | Purpose |
 |---|---|---|
-| 01 | [Case Intake](Ortho-Skills/skills/01-case-intake/SKILL.md) | Structured history, mechanism, exam, red flags |
+| 01 | [Case Intake](Ortho-Skills/skills/01-case-intake/SKILL.md)(https://github.com/MAIVAN-ai/OrthoSkills/blob/main/OrthoSkills-v0.1.1_cl/Ortho-Skills/skills/01-case-intake/SKILL.md) | Structured history, mechanism, exam, red flags |
 | 02 | [Image Quality Check](skills/02-image-quality-check/SKILL.md) | AP/lateral adequacy, projection, artefacts, missing views |
 | 03 | [Anatomy Routing](skills/03-anatomy-routing/SKILL.md) | Map anatomy → applicable classification systems |
 | 04 | [AO/OTA Classification](skills/04-aoota-classification/SKILL.md) | AO/OTA 2018 structured reasoning (canonical: proximal femur) |
